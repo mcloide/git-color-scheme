@@ -78,3 +78,4 @@ Example:
 
 The colors of the branch will change to RED when the branch has changes and to GREEN when there are no changes or it is stable.
 
+The original bash_profile has been created by: https://github.com/kryptek/
